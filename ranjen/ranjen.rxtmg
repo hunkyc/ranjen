@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ranjen"
+      id="97f617aa-874d-4488-86e3-7382ab343906"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ranjen"
+      id="97f617aa-874d-4488-86e3-7382ab343906"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
