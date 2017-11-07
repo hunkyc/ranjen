@@ -111,8 +111,8 @@ namespace ranjen
             repo.PwEntryForm.UserName.Click("64;6");
             Delay.Milliseconds(200);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'msmith' with focus on 'PwEntryForm.UserName'.", repo.PwEntryForm.UserNameInfo, new RecordItemIndex(8));
-            repo.PwEntryForm.UserName.PressKeys("msmith");
+            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'msmith2' with focus on 'PwEntryForm.UserName'.", repo.PwEntryForm.UserNameInfo, new RecordItemIndex(8));
+            repo.PwEntryForm.UserName.PressKeys("msmith2");
             Delay.Milliseconds(0);
             
             Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'PwEntryForm.MBtnOK' at 43;9.", repo.PwEntryForm.MBtnOKInfo, new RecordItemIndex(9));
